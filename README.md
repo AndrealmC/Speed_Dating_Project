@@ -1,5 +1,8 @@
 # Speed Dating Project
 
+![](images/SpeedDating.jpg)
+*Image credits: helloasso.com*
+
 ## The project and the dataset
 This project is a data visualization exercise. It aims to investigate the factors leading to a match during a speed dating session. The data was collected over several speed dating waves involving students. The sessions took place between October, 16 2002 and April, 7 2004.
 
